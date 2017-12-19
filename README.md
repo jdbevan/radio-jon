@@ -1,5 +1,6 @@
 | Date       | Artists/Albums |
 | ---------- | -------------- |
+| 2017-12-19 | 30 Seconds to Mars (A Beautiful Lie, This is War), Alexandre Desplat (Imitation Game OST) |
 | 2017-12-18 | Thomas Newman (Spectre OST, Skyfall OST) |
 | 2017-12-15 | Disturbed (Immortalized), In Flames (Battles), blink-182 (California, Neighborhoods) |
 | 2017-12-14 | Angel Vivaldi (Universal Language, Away With Words: Part 1, Synapse), Outrun The Sunlight |
