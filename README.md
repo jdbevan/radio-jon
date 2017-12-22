@@ -1,5 +1,6 @@
 | Date       | Artists/Albums |
 | ---------- | -------------- |
+| 2017-12-22 | blink-182 (Neighborhoods), Daft Punk (Random Access Memories) |
 | 2017-12-21 | Anthony Gonzalez (Oblivion OST), Biffy Clyro (Only Revolutions), blink-182 (blink-182) |
 | 2017-12-19 | 30 Seconds to Mars (A Beautiful Lie, This is War), Alexandre Desplat (Imitation Game OST) |
 | 2017-12-18 | Thomas Newman (Spectre OST, Skyfall OST) |
