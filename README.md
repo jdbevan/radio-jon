@@ -1,5 +1,6 @@
 | Date       | Artists/Albums |
 | ---------- | -------------- |
+| 2018-01-12 | Alter Bridge (Blackbird, Fortress), Breaking Benjamin (Dear Agony), Daft Punk |
 | 2018-01-10 | Alter Bridge (Blackbird) |
 | 2018-01-09 | Anberlin (Never Take Friendship Personal) |
 | 2017-12-22 | blink-182 (Neighborhoods), Daft Punk (Random Access Memories) |
