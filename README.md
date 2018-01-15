@@ -1,5 +1,6 @@
 | Date       | Artists/Albums |
 | ---------- | -------------- |
+| 2018-01-15 | In Flames (Soundtrack To Your Escape, Reroute To Remain, Come Clarity, Siren Charms), Hans Zimmer (Interstellar OST) |
 | 2018-01-12 | Alter Bridge (Blackbird, Fortress), Breaking Benjamin (Dear Agony), Daft Punk |
 | 2018-01-10 | Alter Bridge (Blackbird) |
 | 2018-01-09 | Anberlin (Never Take Friendship Personal) |
