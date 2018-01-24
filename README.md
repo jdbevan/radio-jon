@@ -1,5 +1,7 @@
 | Date       | Artists/Albums |
 | ---------- | -------------- |
+| 2018-01-24 | Harry Gregson-Williams (The Martian OST), Anberlin (Vital, Lowborn) |
+| 2018-01-23 | Harry Gregson-Williams (The Martian OST) |
 | 2018-01-18 | Daft Punk (Tron Legacy OST) |
 | 2018-01-17 | Michael McCann (Deus Ex: Human Revolution), Daft Punk (Tron Legacy OST) |
 | 2018-01-16 | Hans Zimmer (Interstellar OST), Michael Giacchino (Star Trek Into Darkness OST, Star Trek Beyond OST), James Horner (Avatar OST) |
