@@ -1,5 +1,6 @@
 | Date       | Artists/Albums |
 | ---------- | -------------- |
+| 2018-02-15 | 30 Seconds to Mars (A Beautiful Lie, This is War) |
 | 2018-02-13 | Tree63 |
 | 2018-02-12 | The Offspring (Conspiracy of One) |
 | 2018-01-26 | Royal Blood (How Did We Get So Dark?) |
